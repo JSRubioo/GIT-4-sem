@@ -8,9 +8,13 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 
 ## Descrição do Desafio
 O desafio proposto foi criar um sistema de chamado para setores empresariai(setor TI, administrativo e etc...) com integração e priorização e encaminhamento automatico sem precisar do contato humano assim otimizando o tempo e podendo focar somente no chamado para resolve-lo mais rapido possivel, nosso projeto conta com uma API feita em C# e um (frontend) e integração com ia que sera responsavel por propor soluções no momento da abertura do chamado, caso não seja resolvida a pendencia ela ira encaminhar para o setor responsavel. O armazenamento sera feito em SqlServer hospedado em nuvem e tendo disponibilidade multiplataforma assim sendo web, mobile, desktop.
+## Backlog do Produto
+[Clique aqui para acessar o backlog](https://github.com/users/JSRubioo/projects/2)
+
 
 ## Cronograma de Evolução do Projeto
 ![cronograma](cronograma.jfif)
+
 
 
 ## Tabela Descritiva das Sprints
