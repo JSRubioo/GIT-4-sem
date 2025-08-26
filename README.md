@@ -6,54 +6,27 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 
 ---
 
-## 📌 Sobre a HelpDesk
+## Descrição do Desafio
+O desafio proposto foi criar um sistema de chamado para setores empresariai(setor TI, administrativo e etc...) com integração e priorização e encaminhamento automatico sem precisar do contato humano assim otimizando o tempo e podendo focar somente no chamado para resolve-lo mais rapido possivel, nosso projeto conta com uma API feita em C# e um (frontend) e integração com ia que sera responsavel por propor soluções no momento da abertura do chamado, caso não seja resolvida a pendencia ela ira encaminhar para o setor responsavel. O armazenamento sera feito em SqlServer hospedado em nuvem e tendo disponibilidade multiplataforma assim sendo web, mobile, desktop.
 
-Fundada em 2024, a **HelpDesk** é uma plataforma de suporte técnico corporativo especializada em centralizar e automatizar o atendimento de TI. Nossa missão é **transformar a experiência interna de suporte** através de tecnologia de ponta e inteligência artificial aplicada.
+## Cronograma de Evolução do Projeto
+![cronograma](cronograma.jfif)
 
----
+
+## Tabela Descritiva das Sprints
+| Período da Sprint | Link para a Documentação da Sprint | Data de entrega | 
+|-------------------|------------------------------------| -----------------|
+| Sprint 1          | [Elaboar Documentação inicial do github](#) | 26/08/2025|
+| Sprint 2          | [Desenvolvimento Front](#) | 05/09/2025|
 
 
-## 🚀 Diferenciais Estratégicos
+## Tecnologias Utilizadas
+- Backend feito em C#
+- (frontend)
+- SqlServer em nuvem
+- Gemini IA
 
-| Área                       | Inovação HelpDesk                                                               |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| **Centralização**          | Portal único para registro, acompanhamento e histórico de chamados              |
-| **Automação de Suporte**   | IA que sugere soluções automáticas para 70% dos problemas registrados           |
-| **Roteamento Inteligente** | Encaminhamento automático para técnicos especializados, conforme a complexidade |
-| **Base de Conhecimento**   | FAQ e tutoriais dinâmicos gerados automaticamente pela IA                       |
 
----
-
-## 💡 Produtos e Soluções
-
-### 1. HelpDesk Connect
-**O que faz:**  
-Portal de registro de chamados via web ou desktop.
-
-**Destaques:**
-- Interface intuitiva
-- Login seguro com SSO e MFA
-- Histórico completo de atendimento por usuário
-
-### 2. HelpDesk AI Assist
-**Exclusivo para clientes:**
-- Triagem automática de chamados por IA
-- Sugestão de soluções baseadas em casos anteriores
-- Autoatendimento com inteligência adaptativa
-
-### 3. HelpDesk Insights
-**Painel de métricas e gestão de SLA:**
-- Monitoramento de KPIs como MTTR, FCR e SLA compliance
-- Análise preditiva para identificação de gargalos
-
----
-
-## 🌎 Responsabilidade Social
-
-- **Programa "TI para Todos"**: Iniciativa que treina jovens de comunidades para atuação em suporte técnico.
-- **Sustentabilidade**: Infraestrutura 100% em nuvem com compensação de carbono.
-
----
 
 ## 📞 Contato e Carreira
 
