@@ -25,19 +25,47 @@ O desafio proposto foi criar um sistema de chamado para setores empresariai(seto
 
 
 ## Tecnologias Utilizadas
-- Backend feito em C#
-- (frontend)
-- SqlServer em nuvem
-- Gemini IA
-
+<h4 align="center">
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+ <a href="https://dotnet.microsoft.com"><img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><a/>
+</h4>
 
 
 ## 📞 Contato e Carreira
 
-- **Comercial:** [Jonas Santos Rubio](https://github.com/JSRubioo)    
-- **Imprensa:** [Breno Sacilotti](https://github.com/acreditar)    
-- **Trabalhe conosco:** [João Gabriel de Oliveira](https://github.com/dev-joaogabriel)    
-- **FeedBack:** [Rodrigo Oliveira](https://github.com/devRODS)
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+    </tr>
+    <tr>
+      <td>Jonas Santos Rubio</td>
+      <td>Product Owner</td>
+      <td><a href="https://github.com/JSRubioo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td
+    </tr>
+    <tr>
+      <td>Breno Sacilotti</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/acreditar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+  </a></td>
+    </tr>
+    <tr>
+      <td>Rodrigo Oliveira</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/devRODS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>João Gabriel de Oliveira</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/dev-joaogabriel"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 > **HelpDesk** — "Atendimento que entende você."
