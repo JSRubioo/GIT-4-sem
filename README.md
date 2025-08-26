@@ -1,6 +1,6 @@
 # HelpDesk - Revolucionando o Suporte Técnico com Inteligência Artificial
 
-![BannerHelp](Header.png)
+![BannerHelp](https://github.com/JSRubioo/GIT-4-sem/blob/main/img/Header.png)
 
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
@@ -13,7 +13,7 @@ O desafio proposto foi criar um sistema de chamado para setores empresariai(seto
 
 
 ## Cronograma de Evolução do Projeto
-![cronograma](cronograma.jfif)
+![cronograma](https://github.com/JSRubioo/GIT-4-sem/blob/main/img/cronograma.jfif)
 
 
 
