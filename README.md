@@ -12,7 +12,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 📋 Backlog do Produto  
 
-👉 [Acesse o Backlog Completo](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/backlog.md)
+👉 [Acesse o Backlog Completo](https://github.com/JSRubioo/GIT-4-sem/blob/main/Documenta%C3%A7%C3%A3o/backlog.md)
 
 ---
 
@@ -26,7 +26,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
-* [Manual de Usuário](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/Manual%20do%20Usu%C3%A1rio)
+* [Manual de Usuário](https://github.com/JSRubioo/GIT-4-sem/blob/main/Documenta%C3%A7%C3%A3o/Manual%20do%20Usu%C3%A1rio)
 * Manual da Aplicação
 * Código completo
 
@@ -34,14 +34,14 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 📆 Cronograma de Evolução do Projeto  
 
-👉 [Acesse o DiagramaGantt](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/gantt.md)
+👉 [Acesse o DiagramaGantt](https://github.com/JSRubioo/GIT-4-sem/blob/main/Documenta%C3%A7%C3%A3o/Manual%20do%20Usu%C3%A1rio)
 
 
 ---
 
 ## 📋 Tabela de Sprints  
 
-👉 [Acesse as Sprints](https://github.com/kauacsilva/HelpDesk/blob/main/Documenta%C3%A7%C3%A3o/sprint.md)
+👉 [Acesse as Sprints](https://github.com/JSRubioo/GIT-4-sem/blob/main/Documenta%C3%A7%C3%A3o/sprint.md)
 
 
 ---
@@ -58,7 +58,7 @@ O **HelpDesk** nasceu para resolver essa dor, centralizando e automatizando o at
 
 ## 🗂️ Pasta de Documentação
 
-👉 [Acesse a Documentação](https://github.com/kauacsilva/HelpDesk/tree/main/Documenta%C3%A7%C3%A3o)
+👉 [Acesse a Documentação](https://github.com/JSRubioo/GIT-4-sem/tree/main/Documenta%C3%A7%C3%A3o)
 
 
 ---
