@@ -1,6 +1,6 @@
-# Helpdesk App
+# ZenDesk App
 
-Aplicação de helpdesk (Vite + React + TypeScript + Tailwind + shadcn/ui).
+Aplicação de ZenDesk (Vite + React + TypeScript + Tailwind + shadcn/ui).
 
 ## Scripts
 

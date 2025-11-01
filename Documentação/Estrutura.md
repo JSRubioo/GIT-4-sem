@@ -1,7 +1,7 @@
-# Estrutura do Projeto HelpDesk
+# Estrutura do Projeto ZenDesk
 
 ```
-HelpDesk/
+ZenDesk/
 ├── Codigo/
 │   ├── .env.example
 │   ├── .gitignore

@@ -1,4 +1,4 @@
-# Planejamento de Sprints - Projeto HelpDesk
+# Planejamento de Sprints - Projeto ZenDesk
 
 | Sprints        | Entregas Principais                                                                                     | Observações                                       |
 |----------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------|
