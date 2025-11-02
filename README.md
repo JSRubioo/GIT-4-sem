@@ -68,4 +68,4 @@ A **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o ate
 
 ## 👨‍💻 Equipe
 
-👉 [Acesse a Equipe](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/Diagramas%20PIM.asta)
+👉 [Acesse a Equipe](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/Equipe.md)
