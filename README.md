@@ -50,13 +50,9 @@ A **ZenDesk** nasceu para resolver essa dor, centralizando e automatizando o ate
 
 👉 [Acesse a Documentação](https://github.com/JSRubioo/ZenDesk/tree/main/Documenta%C3%A7%C3%A3o)
 
-    
-### 🏃‍ [DoR - Definition of Ready]
 
-* [Checklist Geral](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Checklist_DoR_DoD.md)
-* [DoR e DoD por sprint](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR_DoD_por_sprint.md)
  
-### 🏆 [DoD - Definition of Done]
+### 🏃‍ DoR - Definition of Ready / DoD - Definition of Done
 
 * [Checklist Geral](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/Checklist_DoR_DoD.md)
 * [DoR e DoD por sprint](https://github.com/JSRubioo/ZenDesk/blob/main/Documenta%C3%A7%C3%A3o/DoR%20e%20DoD/DoR_DoD_por_sprint.md)

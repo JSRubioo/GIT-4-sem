@@ -2,14 +2,9 @@
 
 Use este arquivo para registrar, por sprint, as condições de DoR (pré-requisitos) e DoD (critério de entrega) que foram aplicadas.
 
-| Sprint   | Período                 | Principais Histórias                                                  | DoR atendido?                       | DoD atendido?                                   | Link para Documentação da Sprint |
-| -------- | ----------------------- | --------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------- | -------------------------------- |
-| Sprint 1 | 16/09/2025 – 29/09/2025 | Login, Criar Ticket, Visualizar Ticket                                | ✅ (histórias e critérios definidos) | ✅ (implementado e testado)                      | ../sprints/sprint-1.md           |
-| Sprint 2 | 30/09/2025 – 13/10/2025 | Pesquisar Tickets, TodosChamados, Usuarios, integração básica com API | ✅ (contrato API definido)           | ✅ (consumo básico implementado)                 | ../sprints/sprint-2.md           |
-| Sprint 3 | 14/10/2025 – 27/10/2025 | Testes automatizados, correções de UI, scripts de build/test          | ✅ (cenários de teste definidos)     | ✅ (unit+e2e executando localmente)              | ../sprints/sprint-3.md           |
-| Sprint 4 | 28/10/2025 – 29/10/2025 | Hotfixes, documentação final (README, docs)                           | ✅ (bugs listados)                   | ✅ (bugs críticos corrigidos e docs atualizadas) | ../sprints/sprint-4.md           |
-
-### Como usar
-
-- Já existem arquivos por sprint em `../sprints/` para o período 16/09/2025 — 29/10/2025. Cada arquivo contém: resumo, objetivos, backlog trabalhado, DoR/DoD e evidências (arquivos/testes relevantes).
-- Para sprints futuras, crie um novo `../sprints/sprint-N.md` e adicione a linha correspondente nesta tabela com link para o arquivo.
+| Sprint   | Período                 | Principais Histórias (Backlog)                                                                                          | DoR atendido?                                                                 | DoD atendido?                                                                                      |
+| -------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Sprint 1 | 16/09/2025 – 29/09/2025 | Login, Cadastro de Usuários, Editar Perfil/Senha                                                                         | ✅ (regras de autenticação definidas, perfis de permissão definidos)          | ✅ (sessões funcionando, CRUD de usuários funcionando, edição de perfil e senha implementado)       |
+| Sprint 2 | 30/09/2025 – 13/10/2025 | Criar Chamado, Visualizar Chamados por Técnico, Alterar Status do Chamado                                                | ✅ (campos do chamado definidos, estados mapeados, fluxo de suporte definido)  | ✅ (CRUD de chamados implementado, transição de status funcional e testada)                         |
+| Sprint 3 | 14/10/2025 – 27/10/2025 | Dashboard, Filtros/Pesquisa, Relatórios PDF/CSV, IA para sugestão de prioridade                                          | ✅ (métricas definidas, critérios de filtro definidos, modelo de IA selecionado) | ✅ (dashboard integrado ao banco, filtros funcionando, export PDF/CSV funcionando, sugestão IA OK) |
+| Sprint 4 | 28/10/2025 – 10/11/2025 | Notificações em tempo real, Chat interno, Acesso Mobile/Desktop, Logs LGPD, Documentação técnica final                   | ✅ (eventos de atualização definidos, fluxo do chat definido, framework mobile definido) | 🕓 (pendente finalizar documentação e registro de logs completo)                                  |
